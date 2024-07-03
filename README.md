@@ -1,2 +1,2 @@
 # Angular
-Proyectos desarrollador en Angular.
+Proyectos Angular.
